@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.0.2</programVersion>
-  <programRevision>f51dc11</programRevision>
+  <programVersion>2.1.0</programVersion>
+  <programRevision>871c8ce</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -60,6 +60,8 @@
           </System>
         </Page>
       <Page>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
@@ -726,6 +728,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -988,15 +993,78 @@
           </Chord>
         </Measure>
       <Measure number="21">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="22">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>half</durationType>
           </Rest>
         </Measure>
       <Measure number="23">
@@ -1926,10 +1994,48 @@
           </Chord>
         </Measure>
       <Measure number="22">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="23">
         <Rest>

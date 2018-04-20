@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.0.2</programVersion>
-  <programRevision>f51dc11</programRevision>
+  <programVersion>2.1.0</programVersion>
+  <programRevision>871c8ce</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -887,6 +887,11 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -911,23 +916,116 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        </Measure>
+      <Measure number="12">
+        <TimeSig>
+          <sigN>9</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>83</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>83</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <pitch>86</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>2</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>85</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <Note>
+            <Tie id="4">
+              </Tie>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <Tie id="5">
+              </Tie>
+            <pitch>86</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <endSpanner id="4"/>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <endSpanner id="5"/>
+            <pitch>86</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <Chord>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>83</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
         </Measure>
-      <Measure number="12">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="9" n="8"/>
-          </Rest>
-        </Measure>
-      <Measure number="13">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="9" n="8"/>
-          </Rest>
-        </Measure>
       <Measure number="14">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="9" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="15">
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -969,7 +1067,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="15">
+      <Measure number="16">
         <Rest>
           <durationType>half</durationType>
           </Rest>
@@ -1013,18 +1111,12 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="16">
+      <Measure number="17">
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
         <Rest>
           <durationType>whole</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="17">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="9" n="8"/>
           </Rest>
         </Measure>
       <Measure number="18">
@@ -1100,6 +1192,12 @@
           </Rest>
         </Measure>
       <Measure number="30">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="9" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="31">
         <Rest>
           <durationType>measure</durationType>
           <duration z="9" n="8"/>
@@ -1701,6 +1799,11 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -1709,10 +1812,21 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>whole</durationType>
+          <durationType>half</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
           </Rest>
         </Measure>
       <Measure number="12">
+        <TimeSig>
+          <sigN>9</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
         <Rest>
           <durationType>measure</durationType>
           <duration z="9" n="8"/>
@@ -1733,18 +1847,18 @@
       <Measure number="15">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="18" n="16"/>
+          <duration z="9" n="8"/>
           </Rest>
         </Measure>
       <Measure number="16">
         <Rest>
-          <offset x="0" y="-1"/>
           <durationType>measure</durationType>
-          <duration z="9" n="8"/>
+          <duration z="18" n="16"/>
           </Rest>
         </Measure>
       <Measure number="17">
         <Rest>
+          <offset x="0" y="-1"/>
           <durationType>measure</durationType>
           <duration z="9" n="8"/>
           </Rest>
@@ -1822,6 +1936,12 @@
           </Rest>
         </Measure>
       <Measure number="30">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="9" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="31">
         <Rest>
           <durationType>measure</durationType>
           <duration z="9" n="8"/>
