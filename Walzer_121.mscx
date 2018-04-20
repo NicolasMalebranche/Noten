@@ -5931,8 +5931,11 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           <Note>
             <Accidental>
@@ -5952,6 +5955,9 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
             <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
