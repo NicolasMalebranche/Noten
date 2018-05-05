@@ -1362,7 +1362,7 @@
         </Measure>
       <Measure number="28">
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
@@ -1378,24 +1378,6 @@
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
-            <pitch>78</pitch>
-            <tpc>8</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            </Note>
-          <Note>
             <pitch>78</pitch>
             <tpc>8</tpc>
             </Note>
