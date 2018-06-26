@@ -7913,14 +7913,6 @@
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
@@ -10961,17 +10953,9 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <Chord>
+        <Rest>
           <durationType>quarter</durationType>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         </Measure>
       <Measure number="143">
         <TimeSig>
@@ -11049,8 +11033,8 @@
             <tpc>14</tpc>
             </Note>
           <Note>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
+            <pitch>44</pitch>
+            <tpc>10</tpc>
             </Note>
           <Note>
             <pitch>48</pitch>
@@ -11147,6 +11131,10 @@
           <Note>
             <pitch>48</pitch>
             <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
             </Note>
           <Note>
             <pitch>60</pitch>
