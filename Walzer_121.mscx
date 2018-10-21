@@ -1512,6 +1512,10 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
+            </Note>
+          <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -1524,6 +1528,10 @@
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
+            </Note>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -1556,6 +1564,12 @@
           <pos x="0" y="-5.1"/>
           <style>System</style>
           <text>Leicht und elegant</text>
+          </StaffText>
+        <StaffText>
+          <pos x="-0.370131" y="5.74298"/>
+          <style>System</style>
+          <italic>1</italic>
+          <text>riten.</text>
           </StaffText>
         <Chord>
           <dots>1</dots>
@@ -1611,6 +1625,12 @@
           </Chord>
         </Measure>
       <Measure number="41">
+        <StaffText>
+          <pos x="-0.370131" y="5.84298"/>
+          <style>System</style>
+          <italic>1</italic>
+          <text>a tempo</text>
+          </StaffText>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -8903,16 +8923,16 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -9118,26 +9138,34 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>56</pitch>
+            <tpc>10</tpc>
             </Note>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
+            <Tie id="18">
+              </Tie>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <Tie id="19">
+              </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
@@ -9149,8 +9177,18 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <endSpanner id="18"/>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
+            </Note>
+          <Note>
+            <endSpanner id="19"/>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -11544,12 +11582,12 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Slur id="18">
+        <Slur id="20">
           <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="start" id="18"/>
+          <Slur type="start" id="20"/>
           <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
@@ -11574,18 +11612,18 @@
       <Measure number="135">
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="18"/>
+          <Slur type="stop" id="20"/>
           <Note>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <Slur id="19">
+        <Slur id="21">
           <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="start" id="19"/>
+          <Slur type="start" id="21"/>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -11610,7 +11648,7 @@
       <Measure number="136">
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="19"/>
+          <Slur type="stop" id="21"/>
           <Note>
             <pitch>58</pitch>
             <tpc>12</tpc>
