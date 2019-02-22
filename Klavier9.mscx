@@ -6591,16 +6591,8 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>78</pitch>
-            <tpc>20</tpc>
-            </Note>
-          <Note>
-            <pitch>83</pitch>
-            <tpc>19</tpc>
-            </Note>
-          <Note>
-            <pitch>86</pitch>
-            <tpc>16</tpc>
+            <pitch>80</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
         <Chord>
