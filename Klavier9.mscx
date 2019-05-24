@@ -17485,15 +17485,27 @@
           </Chord>
         </Measure>
       <Measure number="179">
-        <Rest>
+        <Chord>
           <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>eighth</durationType>
-          </Rest>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>

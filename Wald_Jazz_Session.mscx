@@ -1947,15 +1947,12 @@
             <tpc>19</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1966,6 +1963,9 @@
             <tpc>19</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
             </Note>

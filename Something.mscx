@@ -3514,8 +3514,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3789,8 +3789,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>39</pitch>
-            <tpc>11</tpc>
+            <pitch>56</pitch>
+            <tpc>10</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3799,8 +3799,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -3884,8 +3884,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>44</pitch>
-            <tpc>10</tpc>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3941,8 +3941,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>44</pitch>
-            <tpc>10</tpc>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3951,8 +3951,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
+            <pitch>56</pitch>
+            <tpc>10</tpc>
             </Note>
           </Chord>
         </Measure>
