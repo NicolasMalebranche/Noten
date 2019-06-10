@@ -3876,11 +3876,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -3935,8 +3932,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>44</pitch>
+            <tpc>10</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3955,8 +3952,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -4136,8 +4133,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
+            <pitch>39</pitch>
+            <tpc>11</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -4146,8 +4143,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -4183,8 +4180,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -4212,8 +4209,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>48</pitch>
-            <tpc>14</tpc>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -4249,8 +4246,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>44</pitch>
-            <tpc>10</tpc>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
