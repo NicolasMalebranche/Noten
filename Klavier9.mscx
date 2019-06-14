@@ -7097,16 +7097,12 @@
         </Measure>
       <Measure number="176">
         <Chord>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
+          <durationType>half</durationType>
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -17435,18 +17431,18 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>51</pitch>
-            <tpc>23</tpc>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -17488,17 +17484,16 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>53</pitch>
+            <tpc>25</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <role>1</role>
-              <subtype>sharp</subtype>
-              </Accidental>
             <pitch>56</pitch>
             <tpc>22</tpc>
             </Note>
@@ -17506,8 +17501,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
