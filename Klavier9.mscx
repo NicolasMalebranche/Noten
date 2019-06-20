@@ -5162,10 +5162,6 @@
           </Chord>
         </Measure>
       <Measure number="129">
-        <Dynamic>
-          <subtype>ff</subtype>
-          <velocity>112</velocity>
-          </Dynamic>
         <endSpanner id="51"/>
         <Chord>
           <dots>1</dots>
@@ -17534,15 +17530,15 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
