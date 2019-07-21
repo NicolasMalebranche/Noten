@@ -17046,8 +17046,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -17520,12 +17520,16 @@
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         </Measure>
