@@ -24494,10 +24494,6 @@
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
-            </Note>
           </Chord>
         </Measure>
       <Measure number="292">
@@ -24524,10 +24520,6 @@
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
-            </Note>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -26021,16 +26013,16 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>46</pitch>
-            <tpc>12</tpc>
-            </Note>
-          <Note>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -26095,16 +26087,16 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           <Note>
             <pitch>61</pitch>
             <tpc>9</tpc>
+            </Note>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -26130,16 +26122,16 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
             </Note>
           <Note>
             <pitch>61</pitch>
             <tpc>9</tpc>
+            </Note>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
