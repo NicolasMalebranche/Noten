@@ -23467,8 +23467,8 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           <Note>
             <pitch>58</pitch>
@@ -23825,8 +23825,8 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
             </Note>
           <Note>
             <pitch>58</pitch>
@@ -23864,8 +23864,8 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
             </Note>
           <Note>
             <pitch>58</pitch>
@@ -25892,16 +25892,8 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
-            </Note>
-          <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
-            </Note>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -26756,8 +26748,8 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           <Note>
             <pitch>58</pitch>
