@@ -129,6 +129,8 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
         </Page>
       </PageList>
     <Part>
@@ -7365,8 +7367,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>80</pitch>
-            <tpc>22</tpc>
+            <pitch>83</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -7397,6 +7399,141 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>78</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="187">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>double sharp</subtype>
+              </Accidental>
+            <pitch>67</pitch>
+            <tpc>27</tpc>
+            </Note>
+          <Note>
+            <pitch>75</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="188">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>80</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <pitch>83</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>81</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <pitch>83</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="189">
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>81</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -7404,7 +7541,49 @@
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="187">
+      <Measure number="190">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="190" len="30/8">
+        <multiMeasureRest>5</multiMeasureRest>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="30" n="8"/>
+          </Rest>
+        <BarLine>
+          <subtype>normal</subtype>
+          <span>2</span>
+          </BarLine>
+        </Measure>
+      <tick>273600</tick>
+      <Measure number="191">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="192">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="193">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="194">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="195">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -7425,7 +7604,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="188">
+      <Measure number="196">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -7474,7 +7653,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="189">
+      <Measure number="197">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -7517,7 +7696,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="190">
+      <Measure number="198">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -7567,7 +7746,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="191">
+      <Measure number="199">
         <HairPin id="55">
           <subtype>1</subtype>
           </HairPin>
@@ -7620,7 +7799,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="192">
+      <Measure number="200">
         <endSpanner id="55"/>
         <Chord>
           <dots>1</dots>
@@ -7667,7 +7846,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="193">
+      <Measure number="201">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -7705,7 +7884,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="194">
+      <Measure number="202">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -7743,7 +7922,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="195">
+      <Measure number="203">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -7799,7 +7978,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="196">
+      <Measure number="204">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7870,7 +8049,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="197">
+      <Measure number="205">
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -7915,7 +8094,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="198">
+      <Measure number="206">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7967,7 +8146,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="199">
+      <Measure number="207">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -8035,7 +8214,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="200">
+      <Measure number="208">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -8108,7 +8287,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="201">
+      <Measure number="209">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -8188,7 +8367,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="202">
+      <Measure number="210">
         <StaffText>
           <pos x="0" y="5.84838"/>
           <text>rit.</text>
@@ -8263,7 +8442,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="203">
+      <Measure number="211">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -8310,7 +8489,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="204">
+      <Measure number="212">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18299,8 +18478,48 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>49</pitch>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
             <tpc>21</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="185">
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -18317,8 +18536,66 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
         </Measure>
-      <Measure number="185">
+      <Measure number="186">
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="187">
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18339,6 +18616,36 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="188">
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
@@ -18346,14 +18653,10 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>51</pitch>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>63</pitch>
             <tpc>23</tpc>
             </Note>
           </Chord>
@@ -18364,14 +18667,89 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         </Measure>
-      <Measure number="186">
+      <Measure number="189">
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="190">
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
-      <Measure number="187">
+      <Measure number="190" len="30/8">
+        <multiMeasureRest>5</multiMeasureRest>
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="30" n="8"/>
+          </Rest>
+        </Measure>
+      <tick>273600</tick>
+      <Measure number="191">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="192">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="193">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="194">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="6" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="195">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18415,7 +18793,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="188">
+      <Measure number="196">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18462,7 +18840,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="189">
+      <Measure number="197">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18509,7 +18887,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="190">
+      <Measure number="198">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18556,7 +18934,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="191">
+      <Measure number="199">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18603,7 +18981,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="192">
+      <Measure number="200">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18650,7 +19028,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="193">
+      <Measure number="201">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18694,7 +19072,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="194">
+      <Measure number="202">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18738,7 +19116,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="195">
+      <Measure number="203">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18785,7 +19163,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="196">
+      <Measure number="204">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18832,7 +19210,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="197">
+      <Measure number="205">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18876,7 +19254,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="198">
+      <Measure number="206">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18928,7 +19306,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="199">
+      <Measure number="207">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -18978,7 +19356,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="200">
+      <Measure number="208">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -19028,7 +19406,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="201">
+      <Measure number="209">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -19078,7 +19456,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="202">
+      <Measure number="210">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -19122,7 +19500,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="203">
+      <Measure number="211">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -19166,7 +19544,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="204">
+      <Measure number="212">
         <Chord>
           <durationType>eighth</durationType>
           <Note>
