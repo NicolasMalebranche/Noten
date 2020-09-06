@@ -1968,6 +1968,30 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
             </Note>
@@ -1982,27 +2006,9 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -2309,6 +2315,13 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -2321,36 +2334,6 @@
               </Accidental>
             <pitch>59</pitch>
             <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2363,6 +2346,23 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
+            <pitch>56</pitch>
+            <tpc>10</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
@@ -2378,20 +2378,13 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
             <pitch>59</pitch>
             <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -4899,8 +4892,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>39</pitch>
-            <tpc>11</tpc>
+            <pitch>44</pitch>
+            <tpc>10</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -4910,6 +4903,16 @@
             </Articulation>
           <Note>
             <pitch>51</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
+          <Note>
+            <pitch>39</pitch>
             <tpc>11</tpc>
             </Note>
           </Chord>
@@ -4921,16 +4924,6 @@
           <Note>
             <pitch>46</pitch>
             <tpc>12</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>51</pitch>
-            <tpc>11</tpc>
             </Note>
           </Chord>
         <Chord>
