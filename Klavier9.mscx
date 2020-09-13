@@ -7569,6 +7569,9 @@
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
+          <Arpeggio>
+            <subtype>0</subtype>
+            </Arpeggio>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
@@ -7623,6 +7626,9 @@
             <pitch>85</pitch>
             <tpc>21</tpc>
             </Note>
+          <Arpeggio>
+            <subtype>0</subtype>
+            </Arpeggio>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
@@ -16031,15 +16037,15 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
             <pitch>55</pitch>
             <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -16047,10 +16053,6 @@
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>

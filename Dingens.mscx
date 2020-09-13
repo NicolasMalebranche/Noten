@@ -136,6 +136,16 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>p</subtype>
+          <velocity>49</velocity>
+          </Dynamic>
+        <StaffText>
+          <swing unit="eighth" ratio= "60"/>
+          <pos x="-0.15" y="-2.05"/>
+          <style>Tempo</style>
+          <text>Largo</text>
+          </StaffText>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
