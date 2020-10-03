@@ -7107,15 +7107,34 @@
         </Measure>
       <Measure number="176">
         <Chord>
-          <durationType>half</durationType>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="177">
         <Chord>
@@ -13521,15 +13540,15 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>43</pitch>
+            <pitch>55</pitch>
             <tpc>15</tpc>
-            </Note>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -13550,10 +13569,6 @@
           <Note>
             <pitch>52</pitch>
             <tpc>18</tpc>
-            </Note>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -13627,8 +13642,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>46</pitch>
-            <tpc>24</tpc>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
             </Note>
           <Note>
             <pitch>59</pitch>
@@ -13789,10 +13804,11 @@
             </Note>
           <Note>
             <Accidental>
-              <subtype>sharp</subtype>
+              <role>1</role>
+              <subtype>natural</subtype>
               </Accidental>
-            <pitch>65</pitch>
-            <tpc>25</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -13816,8 +13832,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>65</pitch>
-            <tpc>25</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -14047,10 +14063,6 @@
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
-            </Note>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -16771,15 +16783,15 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -18839,15 +18851,15 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
