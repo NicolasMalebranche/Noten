@@ -13523,13 +13523,6 @@
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>36</pitch>
-            <tpc>14</tpc>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -13653,8 +13646,8 @@
             <tpc>21</tpc>
             </Note>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -14198,10 +14191,6 @@
             <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
@@ -14238,6 +14227,10 @@
           <Note>
             <pitch>44</pitch>
             <tpc>22</tpc>
+            </Note>
+          <Note>
+            <pitch>47</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
