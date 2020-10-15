@@ -14075,10 +14075,6 @@
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
-            </Note>
           </Chord>
         </Measure>
       <Measure number="98">
@@ -14143,15 +14139,12 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -18059,8 +18052,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -18076,8 +18069,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
