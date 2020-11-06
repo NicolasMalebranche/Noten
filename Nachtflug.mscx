@@ -1639,8 +1639,8 @@
           <Note>
             <Tie id="19">
               </Tie>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -1649,8 +1649,8 @@
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="19"/>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
