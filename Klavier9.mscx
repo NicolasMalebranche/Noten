@@ -13801,11 +13801,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>51</pitch>
-            <tpc>23</tpc>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -13825,29 +13822,15 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>53</pitch>
-            <tpc>25</tpc>
-            </Note>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>65</pitch>
-            <tpc>25</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -14026,10 +14009,6 @@
             <pitch>56</pitch>
             <tpc>22</tpc>
             </Note>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
@@ -14057,16 +14036,12 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
           <Note>
             <pitch>61</pitch>
             <tpc>21</tpc>
