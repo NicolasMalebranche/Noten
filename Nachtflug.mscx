@@ -1540,7 +1540,7 @@
         </Measure>
       <Measure number="51">
         <Rest>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           </Rest>
         <Chord>
           <durationType>quarter</durationType>
@@ -1550,6 +1550,16 @@
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -1639,8 +1649,8 @@
           <Note>
             <Tie id="19">
               </Tie>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -1649,8 +1659,8 @@
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="19"/>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
