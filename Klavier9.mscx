@@ -13630,11 +13630,8 @@
             <tpc>21</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>58</pitch>
-            <tpc>24</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -13665,6 +13662,9 @@
             <tpc>18</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>58</pitch>
             <tpc>24</tpc>
             </Note>
