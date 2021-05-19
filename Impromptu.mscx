@@ -10,8 +10,8 @@
     <Division>480</Division>
     <Style>
       <page-layout>
-        <page-height>1683.36</page-height>
-        <page-width>1190.88</page-width>
+        <page-height>1683.38</page-height>
+        <page-width>1190.89</page-width>
         <page-margins type="even">
           <left-margin>56.6929</left-margin>
           <right-margin>56.6929</right-margin>
@@ -25,7 +25,7 @@
           <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.76389</Spatium>
+      <Spatium>1.564</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -58,10 +58,10 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -566,8 +566,8 @@
           <Tuplet>12</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -588,13 +588,9 @@
           </Chord>
         </Measure>
       <Measure number="7">
-        <Chord>
+        <Rest>
           <durationType>quarter</durationType>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         <Tuplet id="13">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -606,15 +602,7 @@
           </Tuplet>
         <Chord>
           <Tuplet>13</Tuplet>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>13</Tuplet>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -622,28 +610,20 @@
           </Chord>
         <Chord>
           <Tuplet>13</Tuplet>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
-          <durationType>quarter</durationType>
+          <Tuplet>13</Tuplet>
+          <durationType>eighth</durationType>
           <Note>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>78</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="8">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -660,29 +640,47 @@
           <Tuplet>14</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>14</Tuplet>
           <durationType>eighth</durationType>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>14</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
-          <Tuplet>14</Tuplet>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <Tie id="2">
+              </Tie>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
         <Tuplet id="15">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -696,24 +694,25 @@
           <Tuplet>15</Tuplet>
           <durationType>eighth</durationType>
           <Note>
+            <endSpanner id="2"/>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>15</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>15</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>15</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>15</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -721,15 +720,15 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>78</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -748,8 +747,8 @@
           <Tuplet>16</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -770,10 +769,13 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Tuplet id="17">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
-          <baseNote>quarter</baseNote>
+          <baseNote>eighth</baseNote>
           <Number>
             <style>Tuplet</style>
             <text>3</text>
@@ -781,20 +783,31 @@
           </Tuplet>
         <Chord>
           <Tuplet>17</Tuplet>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Note>
-            <pitch>76</pitch>
+            <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>17</Tuplet>
-          <durationType>half</durationType>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>17</Tuplet>
+          <durationType>eighth</durationType>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Tuplet id="18">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -808,8 +821,8 @@
           <Tuplet>18</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -828,11 +841,25 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="11">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        </Measure>
-      <Measure number="11">
         <Tuplet id="19">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -866,6 +893,93 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="12">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="20">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>20</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>20</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>20</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="13">
+        <Tuplet id="21">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>21</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>21</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>21</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -884,7 +998,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="12">
+      <Measure number="14">
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -892,80 +1006,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Tuplet id="20">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>20</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>20</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>20</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Tuplet id="21">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>21</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>21</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>21</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="13">
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
         <Tuplet id="22">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -979,8 +1019,8 @@
           <Tuplet>22</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -995,13 +1035,10 @@
           <Tuplet>22</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
         <Tuplet id="23">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1015,8 +1052,16 @@
           <Tuplet>23</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>61</pitch>
+            <pitch>73</pitch>
             <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>23</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1027,16 +1072,11 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <Tuplet>23</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         </Measure>
-      <Measure number="14">
+      <Measure number="15">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -1073,6 +1113,9 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Tuplet id="25">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1086,16 +1129,8 @@
           <Tuplet>25</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>25</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1106,6 +1141,19 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <Tuplet>25</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="16">
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Tuplet id="26">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1119,8 +1167,16 @@
           <Tuplet>26</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>26</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1129,23 +1185,6 @@
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>26</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="15">
-        <Chord>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
             </Note>
           </Chord>
         <Tuplet id="27">
@@ -1161,24 +1200,24 @@
           <Tuplet>27</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>27</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>27</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Tuplet id="28">
@@ -1194,31 +1233,35 @@
           <Tuplet>28</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>73</pitch>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>28</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>28</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="17">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <Tuplet>28</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>28</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>78</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="16">
         <Tuplet id="29">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1228,20 +1271,16 @@
             <text>3</text>
             </Number>
           </Tuplet>
+        <Rest>
+          <Tuplet>29</Tuplet>
+          <durationType>eighth</durationType>
+          </Rest>
         <Chord>
           <Tuplet>29</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>80</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>29</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>23</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1252,6 +1291,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Tuplet id="30">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1265,12 +1307,42 @@
           <Tuplet>30</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>30</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>30</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="18">
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Tuplet id="31">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>31</Tuplet>
           <durationType>eighth</durationType>
           <Note>
             <pitch>66</pitch>
@@ -1278,7 +1350,32 @@
             </Note>
           </Chord>
         <Chord>
-          <Tuplet>30</Tuplet>
+          <Tuplet>31</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>31</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>75</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="32">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>32</Tuplet>
           <durationType>eighth</durationType>
           <Note>
             <pitch>61</pitch>
@@ -1286,41 +1383,280 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>half</durationType>
+          <Tuplet>32</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>32</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="19">
+        <Tuplet id="33">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>33</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>33</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>33</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="34">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>34</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>34</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>34</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>78</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="35">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>35</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>80</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>35</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>75</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>35</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="36">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>36</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>36</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>36</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="20">
+        <Chord>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="17">
+        <Tuplet id="37">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>37</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>37</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>37</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>quarter</durationType>
           </Rest>
-        </Measure>
-      <Measure number="18">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="19">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="20">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
+        <Tuplet id="38">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>38</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>38</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>38</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>80</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="21">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>80</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="39">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>39</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>63</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>39</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>39</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>half</durationType>
           </Rest>
         </Measure>
       <Measure number="22">
@@ -1430,6 +1766,24 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
+        </Measure>
+      <Measure number="40">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="41">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="42">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>2</span>
@@ -1446,341 +1800,6 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Tuplet id="31">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>31</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>31</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>31</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Tuplet id="32">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>32</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>32</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>32</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="2">
-        <Tuplet id="33">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>33</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>33</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>33</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Tuplet id="34">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>34</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>34</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>34</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="3">
-        <Tuplet id="35">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>35</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>35</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>35</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Tuplet id="36">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>36</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>36</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>36</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="4">
-        <Tuplet id="37">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>37</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>37</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>37</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Tuplet id="38">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>38</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>38</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>38</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="5">
-        <Tuplet id="39">
-          <normalNotes>2</normalNotes>
-          <actualNotes>3</actualNotes>
-          <baseNote>eighth</baseNote>
-          <Number>
-            <style>Tuplet</style>
-            <text>3</text>
-            </Number>
-          </Tuplet>
-        <Chord>
-          <Tuplet>39</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>51</pitch>
-            <tpc>23</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>39</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>39</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
         <Tuplet id="40">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1794,16 +1813,8 @@
           <Tuplet>40</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>40</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1814,8 +1825,20 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="6">
+        <Chord>
+          <Tuplet>40</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Tuplet id="41">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1829,7 +1852,7 @@
           <Tuplet>41</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>52</pitch>
+            <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
@@ -1837,8 +1860,8 @@
           <Tuplet>41</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1849,9 +1872,8 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
+        </Measure>
+      <Measure number="2">
         <Tuplet id="42">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1873,23 +1895,21 @@
           <Tuplet>42</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>42</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        </Measure>
-      <Measure number="7">
         <Tuplet id="43">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1903,26 +1923,31 @@
           <Tuplet>43</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>51</pitch>
-            <tpc>23</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>43</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>43</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="3">
         <Tuplet id="44">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1944,8 +1969,8 @@
           <Tuplet>44</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1956,6 +1981,12 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Tuplet id="45">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1969,16 +2000,16 @@
           <Tuplet>45</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>49</pitch>
-            <tpc>21</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>45</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1989,6 +2020,8 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        </Measure>
+      <Measure number="4">
         <Tuplet id="46">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2002,16 +2035,16 @@
           <Tuplet>46</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>51</pitch>
-            <tpc>23</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>46</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2022,8 +2055,9 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="8">
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Tuplet id="47">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2037,8 +2071,16 @@
           <Tuplet>47</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>51</pitch>
-            <tpc>23</tpc>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>47</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2049,17 +2091,11 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <Tuplet>47</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        </Measure>
+      <Measure number="5">
         <Tuplet id="48">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2073,8 +2109,8 @@
           <Tuplet>48</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2096,22 +2132,9 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        </Measure>
-      <Measure number="9">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>49</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
         <Tuplet id="49">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2125,16 +2148,8 @@
           <Tuplet>49</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>49</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2145,6 +2160,16 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <Tuplet>49</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
         <Tuplet id="50">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2154,6 +2179,14 @@
             <text>3</text>
             </Number>
           </Tuplet>
+        <Chord>
+          <Tuplet>50</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <Tuplet>50</Tuplet>
           <durationType>eighth</durationType>
@@ -2170,19 +2203,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <Tuplet>50</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        </Measure>
-      <Measure number="10">
         <Tuplet id="51">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2196,8 +2219,16 @@
           <Tuplet>51</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>51</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2208,14 +2239,11 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <Tuplet>51</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="7">
         <Tuplet id="52">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2285,11 +2313,11 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="11">
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        </Measure>
+      <Measure number="8">
         <Tuplet id="54">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2299,6 +2327,14 @@
             <text>3</text>
             </Number>
           </Tuplet>
+        <Chord>
+          <Tuplet>54</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <Tuplet>54</Tuplet>
           <durationType>eighth</durationType>
@@ -2313,14 +2349,6 @@
           <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>54</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
             </Note>
           </Chord>
         <Tuplet id="55">
@@ -2336,24 +2364,24 @@
           <Tuplet>55</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>55</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>55</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Tuplet id="56">
@@ -2369,16 +2397,16 @@
           <Tuplet>56</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>56</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2389,8 +2417,6 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="12">
         <Tuplet id="57">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2404,32 +2430,28 @@
           <Tuplet>57</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>49</pitch>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>57</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>57</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <Tuplet>57</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>57</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
+        </Measure>
+      <Measure number="9">
         <Tuplet id="58">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2443,15 +2465,7 @@
           <Tuplet>58</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>58</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>61</pitch>
+            <pitch>49</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
@@ -2459,12 +2473,18 @@
           <Tuplet>58</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="13">
+        <Chord>
+          <Tuplet>58</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <Tuplet id="59">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2478,29 +2498,26 @@
           <Tuplet>59</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>59</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>59</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
         <Tuplet id="60">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2514,31 +2531,31 @@
           <Tuplet>60</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>49</pitch>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>60</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>60</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
             <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>60</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>60</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
             </Note>
           </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="14">
+      <Measure number="10">
         <Tuplet id="61">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2552,41 +2569,29 @@
           <Tuplet>61</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>51</pitch>
-            <tpc>23</tpc>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>61</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>61</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>56</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="15">
         <Tuplet id="62">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2600,14 +2605,6 @@
           <Tuplet>62</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>62</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
             <pitch>54</pitch>
             <tpc>20</tpc>
             </Note>
@@ -2620,18 +2617,37 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <Tuplet>62</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
         </Measure>
-      <Measure number="16">
+      <Measure number="11">
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <Tuplet id="63">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
-          <baseNote>quarter</baseNote>
+          <baseNote>eighth</baseNote>
           <Number>
             <style>Tuplet</style>
             <text>3</text>
@@ -2639,26 +2655,26 @@
           </Tuplet>
         <Chord>
           <Tuplet>63</Tuplet>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <Tuplet>63</Tuplet>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>63</Tuplet>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>63</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <Tuplet id="64">
@@ -2674,16 +2690,8 @@
           <Tuplet>64</Tuplet>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>64</Tuplet>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>51</pitch>
-            <tpc>23</tpc>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2694,38 +2702,725 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Chord>
+          <Tuplet>64</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
-      <Measure number="17">
+      <Measure number="12">
+        <Tuplet id="65">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>65</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>65</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>65</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="66">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>66</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>66</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>66</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Tuplet id="67">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>67</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>67</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>67</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Tuplet id="68">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>68</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>68</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>68</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="69">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>69</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>69</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>69</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="70">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>70</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>70</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>70</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <Tuplet id="71">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>71</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>71</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>71</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Tuplet id="72">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>72</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>72</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>72</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <Tuplet id="73">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>73</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>73</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>73</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Tuplet id="74">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>74</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>74</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>74</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="16">
+        <Tuplet id="75">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>75</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>75</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>75</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="17">
+        <Tuplet id="76">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>76</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>76</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>76</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>49</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Tuplet id="77">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>77</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>77</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>77</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
           </Rest>
         </Measure>
       <Measure number="18">
+        <Tuplet id="78">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>78</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>78</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>78</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>quarter</durationType>
           </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Tuplet id="79">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>79</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>79</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>79</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="19">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>half</durationType>
           </Rest>
+        <Tuplet id="80">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>quarter</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>80</Tuplet>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>80</Tuplet>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>80</Tuplet>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="20">
+        <Tuplet id="81">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>81</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>51</pitch>
+            <tpc>23</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>81</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>81</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Tuplet id="82">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>82</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>82</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>82</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
           </Rest>
         </Measure>
       <Measure number="21">
+        <Tuplet id="83">
+          <normalNotes>2</normalNotes>
+          <actualNotes>3</actualNotes>
+          <baseNote>eighth</baseNote>
+          <Number>
+            <style>Tuplet</style>
+            <text>3</text>
+            </Number>
+          </Tuplet>
+        <Chord>
+          <Tuplet>83</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>83</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>56</pitch>
+            <tpc>22</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>83</Tuplet>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>half</durationType>
           </Rest>
         </Measure>
       <Measure number="22">
@@ -2831,6 +3526,24 @@
           </Rest>
         </Measure>
       <Measure number="39">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="40">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="41">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
+          </Rest>
+        </Measure>
+      <Measure number="42">
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
